@@ -1,0 +1,10 @@
+Package: lmereffect
+Title: Calculate Cohen's d for a dichotomous variable in a model created with lme4::lmer()
+Version: 0.0.0.9000
+Authors@R: person("Joshua", "Rosenberg", email = "jmichaelrosenberg@gmail.com", role = c("aut", "cre"))
+Description: Calculate Cohen's d for a dichotomous variable in a model created with lme4::lmer()
+Depends: R (>= 3.4.2)
+License: MIT + file LICENSE
+Requires: rlang, lme4, tidyverse, broom
+Encoding: UTF-8
+LazyData: true
